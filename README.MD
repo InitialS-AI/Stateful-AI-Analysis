@@ -2,7 +2,7 @@
 
 ## Preliminaries
 
-This is the online repair code for Recurrent Neural Networks, a kind of stateful deep neural network. The underlying technique is DeepStellar, which was published at ESEC/FSE 2019 (DeepStellar: Model-Based Quantitative Analysis of Stateful Deep Learning Systems)
+This is the online repair code for Recurrent Neural Networks, a kind of stateful deep neural network. The underlying technique is DeepStellar, which was published at ESEC/FSE 2019 (DeepStellar: Model-Based Quantitative Analysis of Stateful Deep Learning Systems). This project aims to enhance the safety and the trustworthiness of AI-driven stateful systems
 
 ## Yelp deepstellar model
 ```bash
